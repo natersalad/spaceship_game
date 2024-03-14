@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./spaceship_game/Cargo.toml"
+    ]
+}
